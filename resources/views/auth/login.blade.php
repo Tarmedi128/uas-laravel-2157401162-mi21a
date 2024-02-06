@@ -42,8 +42,8 @@
     <input type="password" name="password" id="password" class="form-control" />
   </div>
 
-  <button class="btn btn-success  btn-lg px-5" type="submit">Login</button>
-<a href="/" class="btn btn-success  btn-lg px-5">Kembali</a>
+  <button class="btn btn-info  btn-lg px-5" type="submit">Login</button>
+<a href="/" class="btn btn-info  btn-lg px-5">Kembali</a>
 </div>
 </div>
  

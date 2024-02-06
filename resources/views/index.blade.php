@@ -19,8 +19,8 @@
 
 
 
-                            <a href="/register" class="btn btn-success btn-lg btn-block px-5">Register</a>
-                            <a href="/login" class="btn btn-success btn-lg btn-block px-5">Login</a>
+                            <a href="/register" class="btn btn-info btn-lg btn-block px-5">Register</a>
+                            <a href="/login" class="btn btn-info btn-lg btn-block px-5">Login</a>
 
 
 

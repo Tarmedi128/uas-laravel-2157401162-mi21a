@@ -18,7 +18,7 @@
                         <h1 class="mb-3">{{ Auth::user()->name }}</h1>
                             <h3 class="mb-5">{{ Auth::user()->email }}</h3>
 
-                            <a href="{{ route('logout') }}" class="btn btn-success btn-lg btn-block px-5">Logout</a>
+                            <a href="{{ route('logout') }}" class="btn btn-info btn-lg btn-block px-5">Logout</a>
 
 
 
